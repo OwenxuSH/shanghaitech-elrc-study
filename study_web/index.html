@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ELRC · 课堂学习</title>
+  <link rel="stylesheet" href="/assets/style.css">
+  <script src="/assets/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">E</span><div><strong>ELRC 课堂学习</strong><small>视频 · 课件 · 转写 · 讲解</small></div></div>
+    <div class="selectors">
+      <label>课程<select id="courseSelect" aria-label="选择课程"></select></label>
+      <label>课次<select id="lessonSelect" aria-label="选择课次"></select></label>
+    </div>
+    <span id="status" class="status">加载中…</span>
+  </header>
+  <main class="workspace">
+    <aside class="slide-panel panel" aria-label="PPT 页面目录">
+      <div class="panel-title"><div><small>SLIDE INDEX</small><h2>课件目录</h2></div><span id="slideCount" class="count">—</span></div>
+      <p class="panel-hint">点击页面，视频跳到这一页开始。</p>
+      <nav id="slideList" class="slide-list" aria-label="课件页面"></nav>
+    </aside>
+
+    <div id="leftDivider" class="divider divider-vertical" role="separator" aria-orientation="vertical" aria-label="调整课件目录与视频宽度" tabindex="0" title="拖动调整左右宽度；方向键微调"></div>
+
+    <section class="center-panel" aria-label="课堂视频">
+      <div class="video-panel panel">
+        <div class="video-heading"><div><small id="lessonLabel">课堂视频</small><h1 id="slideTitle">选择一节课堂</h1></div><span id="pageTime" class="page-time">—</span></div>
+        <div class="video-wrap"><video id="video" controls preload="metadata" playsinline>当前浏览器不支持 HTML5 视频。</video><div id="videoMessage" class="video-message" hidden></div></div>
+        <div class="controls">
+          <button id="back10" type="button" title="后退 10 秒">−10s</button>
+          <button id="playToggle" type="button" class="primary">播放</button>
+          <button id="forward10" type="button" title="前进 10 秒">+10s</button>
+          <label class="speed">速度<select id="speedSelect" aria-label="播放速度"><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2×</option></select></label>
+          <label class="page-pause"><input id="pagePause" type="checkbox"><span>逐页暂停</span></label>
+          <span id="clock" class="clock">00:00 / 00:00</span>
+        </div>
+      </div>
+    </section>
+
+    <div id="rightDivider" class="divider divider-vertical" role="separator" aria-orientation="vertical" aria-label="调整视频与讲解宽度" tabindex="0" title="拖动调整左右宽度；方向键微调"></div>
+
+    <aside class="study-panel" aria-label="讲解与课堂转写">
+      <section id="explainSection" class="study-section panel expanded" aria-label="当前页讲解">
+        <button id="explainToggle" class="section-toggle" type="button" aria-expanded="true" aria-controls="explainContent"><span class="section-label"><small>STUDY NOTES</small><strong>当前页讲解</strong></span><span class="section-meta"><span id="noteState" class="note-state">本地预生成</span><span class="chevron" aria-hidden="true"></span></span></button>
+        <div id="explainContent" class="explain-content"><p class="empty">选择课件页面后显示对应讲解。</p></div>
+      </section>
+      <section id="transcriptSection" class="study-section panel expanded" aria-label="整节课转写">
+        <button id="transcriptToggle" class="section-toggle" type="button" aria-expanded="true" aria-controls="transcriptList"><span class="section-label"><small>TRANSCRIPT</small><strong>整节课转写</strong></span><span class="section-meta"><span id="cueCount" class="count">—</span><span class="chevron" aria-hidden="true"></span></span></button>
+        <div id="transcriptList" class="transcript-list" aria-label="可点击的整节课转写"></div>
+      </section>
+    </aside>
+  </main>
+  <footer>本地学习服务 · 录屏与转写来自 ELRC · 课件页为录屏截图，非教师原始 PPT</footer>
+</body>
+</html>

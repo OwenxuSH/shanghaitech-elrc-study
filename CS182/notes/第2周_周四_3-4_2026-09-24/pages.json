@@ -1,0 +1,235 @@
+{
+  "course": "CS182",
+  "session": {
+    "week": "2",
+    "week_day": "周四",
+    "week_date": "2026-09-24",
+    "section": "3-4"
+  },
+  "pages": [
+    {
+      "number": 3,
+      "start": 368.0,
+      "end": 512.0,
+      "sample": 444.0,
+      "image": "page_003.jpg"
+    },
+    {
+      "number": 4,
+      "start": 704.0,
+      "end": 840.0,
+      "sample": 772.0,
+      "image": "page_004.jpg"
+    },
+    {
+      "number": 5,
+      "start": 840.0,
+      "end": 912.0,
+      "sample": 876.0,
+      "image": "page_005.jpg"
+    },
+    {
+      "number": 6,
+      "start": 912.0,
+      "end": 992.0,
+      "sample": 956.0,
+      "image": "page_006.jpg"
+    },
+    {
+      "number": 7,
+      "start": 992.0,
+      "end": 1032.0,
+      "sample": 1012.0,
+      "image": "page_007.jpg"
+    },
+    {
+      "number": 8,
+      "start": 1040.0,
+      "end": 1136.0,
+      "sample": 1060.0,
+      "image": "page_008.jpg"
+    },
+    {
+      "number": 9,
+      "start": 1136.0,
+      "end": 1240.0,
+      "sample": 1188.0,
+      "image": "page_009.jpg"
+    },
+    {
+      "number": 10,
+      "start": 1240.0,
+      "end": 1488.0,
+      "sample": 1348.0,
+      "image": "page_010.jpg"
+    },
+    {
+      "number": 11,
+      "start": 1488.0,
+      "end": 1664.0,
+      "sample": 1580.0,
+      "image": "page_011.jpg"
+    },
+    {
+      "number": 12,
+      "start": 1664.0,
+      "end": 1728.0,
+      "sample": 1700.0,
+      "image": "page_012.jpg"
+    },
+    {
+      "number": 15,
+      "start": 1872.0,
+      "end": 2128.0,
+      "sample": 2004.0,
+      "image": "page_015.jpg"
+    },
+    {
+      "number": 16,
+      "start": 2128.0,
+      "end": 2200.0,
+      "sample": 2164.0,
+      "image": "page_016.jpg"
+    },
+    {
+      "number": 18,
+      "start": 2232.0,
+      "end": 2384.0,
+      "sample": 2308.0,
+      "image": "page_018.jpg"
+    },
+    {
+      "number": 21,
+      "start": 2624.0,
+      "end": 2800.0,
+      "sample": 2716.0,
+      "image": "page_021.jpg"
+    },
+    {
+      "number": 22,
+      "start": 2800.0,
+      "end": 2952.0,
+      "sample": 2876.0,
+      "image": "page_022.jpg"
+    },
+    {
+      "number": 25,
+      "start": 3168.0,
+      "end": 3200.0,
+      "sample": 3188.0,
+      "image": "page_025.jpg"
+    },
+    {
+      "number": 34,
+      "start": 4024.0,
+      "end": 4272.0,
+      "sample": 4148.0,
+      "image": "page_034.jpg"
+    },
+    {
+      "number": 35,
+      "start": 4272.0,
+      "end": 4320.0,
+      "sample": 4300.0,
+      "image": "page_035.jpg"
+    },
+    {
+      "number": 39,
+      "start": 4616.0,
+      "end": 4840.0,
+      "sample": 4732.0,
+      "image": "page_039.jpg"
+    },
+    {
+      "number": 41,
+      "start": 5096.0,
+      "end": 5272.0,
+      "sample": 5188.0,
+      "image": "page_041.jpg"
+    },
+    {
+      "number": 42,
+      "start": 5280.0,
+      "end": 5440.0,
+      "sample": 5364.0,
+      "image": "page_042.jpg"
+    },
+    {
+      "number": 43,
+      "start": 5448.0,
+      "end": 5496.0,
+      "sample": 5476.0,
+      "image": "page_043.jpg"
+    },
+    {
+      "number": 44,
+      "start": 5496.0,
+      "end": 5592.0,
+      "sample": 5548.0,
+      "image": "page_044.jpg"
+    },
+    {
+      "number": 45,
+      "start": 5600.0,
+      "end": 5656.0,
+      "sample": 5612.0,
+      "image": "page_045.jpg"
+    },
+    {
+      "number": 46,
+      "start": 5656.0,
+      "end": 5696.0,
+      "sample": 5676.0,
+      "image": "page_046.jpg"
+    },
+    {
+      "number": 49,
+      "start": 5792.0,
+      "end": 5848.0,
+      "sample": 5820.0,
+      "image": "page_049.jpg"
+    },
+    {
+      "number": 50,
+      "start": 5848.0,
+      "end": 6008.0,
+      "sample": 5932.0,
+      "image": "page_050.jpg"
+    },
+    {
+      "number": 51,
+      "start": 6008.0,
+      "end": 6080.0,
+      "sample": 6020.0,
+      "image": "page_051.jpg"
+    },
+    {
+      "number": 52,
+      "start": 6080.0,
+      "end": 6128.0,
+      "sample": 6108.0,
+      "image": "page_052.jpg"
+    },
+    {
+      "number": 55,
+      "start": 6208.0,
+      "end": 6496.0,
+      "sample": 6356.0,
+      "image": "page_055.jpg"
+    },
+    {
+      "number": 56,
+      "start": 6496.0,
+      "end": 6536.0,
+      "sample": 6516.0,
+      "image": "page_056.jpg"
+    },
+    {
+      "number": 57,
+      "start": 6544.0,
+      "end": 6560.0,
+      "sample": 6556.0,
+      "image": "page_057.jpg"
+    }
+  ]
+}

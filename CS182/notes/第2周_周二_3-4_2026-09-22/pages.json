@@ -1,0 +1,263 @@
+{
+  "course": "CS182",
+  "session": {
+    "week": "2",
+    "week_day": "周二",
+    "week_date": "2026-09-22",
+    "section": "3-4"
+  },
+  "pages": [
+    {
+      "number": 5,
+      "start": 520.0,
+      "end": 576.0,
+      "sample": 548.0,
+      "image": "page_005.jpg"
+    },
+    {
+      "number": 6,
+      "start": 576.0,
+      "end": 760.0,
+      "sample": 668.0,
+      "image": "page_006.jpg"
+    },
+    {
+      "number": 7,
+      "start": 760.0,
+      "end": 912.0,
+      "sample": 820.0,
+      "image": "page_007.jpg"
+    },
+    {
+      "number": 8,
+      "start": 912.0,
+      "end": 1056.0,
+      "sample": 988.0,
+      "image": "page_008.jpg"
+    },
+    {
+      "number": 11,
+      "start": 1120.0,
+      "end": 1344.0,
+      "sample": 1236.0,
+      "image": "page_011.jpg"
+    },
+    {
+      "number": 12,
+      "start": 1344.0,
+      "end": 1360.0,
+      "sample": 1356.0,
+      "image": "page_012.jpg"
+    },
+    {
+      "number": 16,
+      "start": 1488.0,
+      "end": 1856.0,
+      "sample": 1676.0,
+      "image": "page_016.jpg"
+    },
+    {
+      "number": 17,
+      "start": 1856.0,
+      "end": 2232.0,
+      "sample": 1876.0,
+      "image": "page_017.jpg"
+    },
+    {
+      "number": 18,
+      "start": 2232.0,
+      "end": 2472.0,
+      "sample": 2244.0,
+      "image": "page_018.jpg"
+    },
+    {
+      "number": 19,
+      "start": 2480.0,
+      "end": 2728.0,
+      "sample": 2524.0,
+      "image": "page_019.jpg"
+    },
+    {
+      "number": 21,
+      "start": 2784.0,
+      "end": 3168.0,
+      "sample": 2980.0,
+      "image": "page_021.jpg"
+    },
+    {
+      "number": 22,
+      "start": 3168.0,
+      "end": 3200.0,
+      "sample": 3188.0,
+      "image": "page_022.jpg"
+    },
+    {
+      "number": 25,
+      "start": 3776.0,
+      "end": 4264.0,
+      "sample": 3844.0,
+      "image": "page_025.jpg"
+    },
+    {
+      "number": 27,
+      "start": 4432.0,
+      "end": 4664.0,
+      "sample": 4548.0,
+      "image": "page_027.jpg"
+    },
+    {
+      "number": 29,
+      "start": 4688.0,
+      "end": 4768.0,
+      "sample": 4732.0,
+      "image": "page_029.jpg"
+    },
+    {
+      "number": 30,
+      "start": 4776.0,
+      "end": 4792.0,
+      "sample": 4788.0,
+      "image": "page_030.jpg"
+    },
+    {
+      "number": 31,
+      "start": 4792.0,
+      "end": 4808.0,
+      "sample": 4804.0,
+      "image": "page_031.jpg"
+    },
+    {
+      "number": 32,
+      "start": 4808.0,
+      "end": 4832.0,
+      "sample": 4820.0,
+      "image": "page_032.jpg"
+    },
+    {
+      "number": 33,
+      "start": 4840.0,
+      "end": 4856.0,
+      "sample": 4852.0,
+      "image": "page_033.jpg"
+    },
+    {
+      "number": 34,
+      "start": 4856.0,
+      "end": 4872.0,
+      "sample": 4868.0,
+      "image": "page_034.jpg"
+    },
+    {
+      "number": 35,
+      "start": 4880.0,
+      "end": 4912.0,
+      "sample": 4900.0,
+      "image": "page_035.jpg"
+    },
+    {
+      "number": 36,
+      "start": 4920.0,
+      "end": 4936.0,
+      "sample": 4932.0,
+      "image": "page_036.jpg"
+    },
+    {
+      "number": 37,
+      "start": 4936.0,
+      "end": 5008.0,
+      "sample": 4972.0,
+      "image": "page_037.jpg"
+    },
+    {
+      "number": 38,
+      "start": 5016.0,
+      "end": 5080.0,
+      "sample": 5052.0,
+      "image": "page_038.jpg"
+    },
+    {
+      "number": 40,
+      "start": 5192.0,
+      "end": 5216.0,
+      "sample": 5204.0,
+      "image": "page_040.jpg"
+    },
+    {
+      "number": 42,
+      "start": 5264.0,
+      "end": 5304.0,
+      "sample": 5284.0,
+      "image": "page_042.jpg"
+    },
+    {
+      "number": 43,
+      "start": 5312.0,
+      "end": 5392.0,
+      "sample": 5332.0,
+      "image": "page_043.jpg"
+    },
+    {
+      "number": 44,
+      "start": 5400.0,
+      "end": 5496.0,
+      "sample": 5452.0,
+      "image": "page_044.jpg"
+    },
+    {
+      "number": 45,
+      "start": 5512.0,
+      "end": 5552.0,
+      "sample": 5532.0,
+      "image": "page_045.jpg"
+    },
+    {
+      "number": 46,
+      "start": 5568.0,
+      "end": 5584.0,
+      "sample": 5580.0,
+      "image": "page_046.jpg"
+    },
+    {
+      "number": 49,
+      "start": 5896.0,
+      "end": 6000.0,
+      "sample": 5948.0,
+      "image": "page_049.jpg"
+    },
+    {
+      "number": 50,
+      "start": 6008.0,
+      "end": 6296.0,
+      "sample": 6140.0,
+      "image": "page_050.jpg"
+    },
+    {
+      "number": 51,
+      "start": 6296.0,
+      "end": 6344.0,
+      "sample": 6324.0,
+      "image": "page_051.jpg"
+    },
+    {
+      "number": 52,
+      "start": 6344.0,
+      "end": 6360.0,
+      "sample": 6356.0,
+      "image": "page_052.jpg"
+    },
+    {
+      "number": 53,
+      "start": 6368.0,
+      "end": 6392.0,
+      "sample": 6380.0,
+      "image": "page_053.jpg"
+    },
+    {
+      "number": 54,
+      "start": 6400.0,
+      "end": 6424.0,
+      "sample": 6412.0,
+      "image": "page_054.jpg"
+    }
+  ]
+}

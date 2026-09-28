@@ -1,0 +1,14 @@
+# School media and account-specific download metadata are local only.
+/CS*/recordings/
+/CS*/transcripts/
+/CS*/manifest*.json
+/CS*/course_recording_info.json
+/CS*/notes/*/*.jpg
+/CS*/notes/*/*.png
+/CS*/notes/*/*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+.chrome-elrc/
